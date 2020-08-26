@@ -1,0 +1,4 @@
+l
+
+train_H36M_orthoGT(var_D,smallBatchNum,stride,iterations,logFrequency,h36mpath,weightStr)
+train_H36M_orthoGT(var_D,smallBatchNum,stride,iterations,logFrequency,h36mpath,weightStr)
