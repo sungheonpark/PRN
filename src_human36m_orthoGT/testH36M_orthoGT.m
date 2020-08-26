@@ -1,3 +1,4 @@
+addpath(genpath('../funcs'))
 caffemodelName = 'models/H36M_orthoGT.caffemodel';
 netName = 'net_prn_fcn_test.prototxt';
 h36mpath = '/home/hololo/PRN_CVPR/dataset/human36m/';
